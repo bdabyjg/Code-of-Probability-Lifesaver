@@ -1,0 +1,2 @@
+
+This Python code does the same thing as your Mathematica code. It generates a deck of cards, then for a specified number of times (num), it draws a hand of 5 cards, checks if it’s a full house, and if so, increments a counter. At the end, it prints the percentage of times a full house was drawn, and a prediction statement. The function full_house_search is called with an argument of 10000, which can be changed as per your requirement.
